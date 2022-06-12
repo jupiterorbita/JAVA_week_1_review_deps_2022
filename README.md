@@ -4,6 +4,7 @@
 
 - Spring Web
 - DevTools
+
 ![](./assets/defaults.png)
 
 ### for creating Views (JSP pages) we will need to add these depencencies in our `pom.xml`
